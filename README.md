@@ -1,3 +1,3 @@
 # Sphero-Pilot
 MSP Sphero Pilot 
-![alt tag] (http://1drv.ms/1diw0us)
+![alt tag] (https://github.com/MSPStudentDeveloperContent/Sphero-Pilot/blob/master/Github%20banner.jpg)
