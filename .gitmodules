@@ -1,0 +1,3 @@
+[submodule "Sphero-Band"]
+	path = Sphero-Band
+	url = https://github.com/michstmatt/Sphero-Band
