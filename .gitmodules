@@ -1,3 +1,6 @@
 [submodule "Sphero-Band"]
 	path = Sphero-Band
 	url = https://github.com/michstmatt/Sphero-Band
+[submodule "MSP_SpheroPilot-Sphero-Drive"]
+	path = MSP_SpheroPilot-Sphero-Drive
+	url = git://github.com/Assassin0795/MSP_SpheroPilot-Sphero-Drive.git
