@@ -4,12 +4,3 @@
 [submodule "MSP_SpheroPilot-Sphero-Drive"]
 	path = MSP_SpheroPilot-Sphero-Drive
 	url = git://github.com/Assassin0795/MSP_SpheroPilot-Sphero-Drive.git
-<<<<<<< HEAD
-[submodule "Sphero-Director"]
-	path = Sphero-Director
-	url = https://github.com/gracelu/Sphero-Director
-=======
-[submodule "Sphero-Floor-Plan"]
-	path = Sphero-Floor-Plan
-	url = https://github.com/vadlak/Sphero-Floor-Plan
->>>>>>> origin/master
