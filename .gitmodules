@@ -10,3 +10,6 @@
 [submodule "Sphero-Floor-Plan"]
 	path = Sphero-Floor-Plan
 	url = https://github.com/vadlak/Sphero-Floor-Plan
+[submodule "Sphero-Morse-Code"]
+	path = Sphero-Morse-Code
+	url = https://github.com/rkhadder/Sphero-Morse-Code.git
