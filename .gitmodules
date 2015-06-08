@@ -16,6 +16,6 @@
 [submodule "MSP_SpheroPilot--Sphero360"]
 	path = MSP_SpheroPilot--Sphero360
 	url = https://github.com/Shane904/MSP_SpheroPilot--Sphero360
-[submodule "MSP_SpheroPilot_Sphero-PVP"]
-	path = Sphero-PVP
-	url = https://github.com/JoshuaJB/MSP_SpheroPilot_Sphero-PVP
+[submodule "Sphero-Share"]
+	path = Sphero-Share
+	url = https://github.com/JoshuaJB/MSP_SpheroPilot_Sphero-Share.git
