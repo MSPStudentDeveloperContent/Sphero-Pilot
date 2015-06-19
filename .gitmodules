@@ -19,3 +19,6 @@
 [submodule "Sphero-Share"]
 	path = Sphero-Share
 	url = https://github.com/JoshuaJB/MSP_SpheroPilot_Sphero-Share.git
+[submodule "MSP_SpheroPilot-Sphero-Trainer"]
+	path = MSP_SpheroPilot-Sphero-Trainer
+	url = https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer.git
