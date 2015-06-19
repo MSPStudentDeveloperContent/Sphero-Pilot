@@ -22,3 +22,6 @@
 [submodule "MSP_SpheroPilot-Sphero-Trainer"]
 	path = MSP_SpheroPilot-Sphero-Trainer
 	url = https://github.com/Nbot07/MSP_SpheroPilot-Sphero-Trainer.git
+[submodule "MSP_SpheroPilot--Tap-Of-War"]
+	path = MSP_SpheroPilot--Tap-Of-War
+	url = https://github.com/jacensherman/MSP_SpheroPilot--Tap-Of-War
