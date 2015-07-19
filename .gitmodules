@@ -25,3 +25,6 @@
 [submodule "MSP_SpheroPilot--Tap-Of-War"]
 	path = MSP_SpheroPilot--Tap-Of-War
 	url = https://github.com/jacensherman/MSP_SpheroPilot--Tap-Of-War
+[submodule "Sphero-Azure-GPS"]
+	path = Sphero-Azure-GPS
+	url = https://github.com/michstmatt/Sphero-Azure-GPS
